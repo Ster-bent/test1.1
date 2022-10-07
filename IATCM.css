@@ -10,10 +10,10 @@ div {
   font-size: 250%;
 }
 #chrisw {
-  border-color: rgb(138,43,226);
+  background-color: rgb(138,43,226);
   border: 30px;
 }
 #chrisw:hover {
-  border-color: rgb(75,0,130);
+  background-color: rgb(75,0,130);
   border: 30px;
 }
