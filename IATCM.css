@@ -4,3 +4,8 @@ body {
 div {
   text-align: center;
 }
+#title {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(128,0,0);
+  font-size: 150%;
+}
