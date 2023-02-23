@@ -17,6 +17,7 @@
   }
   
   .introheading {
+    text-emphasis-color: white;
     font-size: large;
     font-family: arial;
     width: 300px;
