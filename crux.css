@@ -29,3 +29,7 @@
 .stonedesc {
     border: 5px solid black;
 }
+#intro {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
