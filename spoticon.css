@@ -10,7 +10,8 @@
     float: left;
 }
 
-.heading h1 {
+.heading h3,
+p {
     margin-left: 15px;
     display: block;
     margin: 2px 0 0 0;
