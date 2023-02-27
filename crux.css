@@ -1,15 +1,15 @@
 .border_1 {
     position: relative;
-    border: 5px solid black;
+    border: 5px solid gray;
     align-items: center;
 }
 .crux_font {
     font-family: Arial;
     text-align: center;
-    border: 5px solid black
+    border: 5px solid gray
 }
 .photo {
-    border: 5px solid black;
+    border: 5px solid gray;
     width: 500px;
     height: 500px;
     margin-left: auto;
@@ -29,7 +29,7 @@
     color: white;
 }
 .stonedesc {
-    border: 5px solid black;
+    border: 5px solid gray;
 }
 #intro {
     text-align:center;
