@@ -41,10 +41,11 @@ body {
     border: 10px solid gray;
 }
 #shaq {
+    text-align: center;
     background:gray;
     color: maroon;
 }
 #shaq:hover {
-    background: darkred;
-    color: #4c4c4c;
+    background: #4c4c4c;
+    color: #5a0000;
 }
