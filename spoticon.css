@@ -1,18 +1,3 @@
-.heading {
-    width: 400px;
-    border: 4px solid black;
-    padding: 20px;
-    overflow: hidden;
-}
-
-.heading img {
-    margin-right: 15px;
-    float: left;
-}
-
-.heading h3,
-p {
-    margin-left: 15px;
-    display: block;
-    margin: 2px 0 0 0;
+.heading img{
+    border:5px black;
 }
