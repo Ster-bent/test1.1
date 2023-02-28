@@ -1,5 +1,8 @@
  img{
-    border:5px black;
     height: 50px;
     width: 50px;
+}
+head {
+    border: 5px solid black;
+    border-width: 600px;
 }
