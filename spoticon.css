@@ -3,8 +3,13 @@
     width: 50px;
 }
 #head {
-    border: 5px solid black;
+    border: 5px solid #101010;
+    background-color: #202020;
 }
 #header{
-    font-family:
+    font-family: fantasy;
+    color: #FFFFFF;
+}
+body{
+    background-color: #101010;
 }
