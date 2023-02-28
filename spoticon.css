@@ -12,4 +12,13 @@
 }
 body{
     background-color: #101010;
+    background-image: url(8C83EF9C-40FC-4FC6-A104-A7F21FB69816.jpeg);
+    background-size:contain;
+}
+#options{
+    background-color: #101010;
+}
+p {
+    color:white;
+    font-family: fantasy;
 }
