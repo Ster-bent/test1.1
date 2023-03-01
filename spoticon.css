@@ -24,7 +24,7 @@ p {
     font-family: fantasy;
 }
 .scot {
-    border: 3px solid #101010;
+    border: 3px solid #303030;
     width: 100px;
     height: 75px;
 }
@@ -36,4 +36,7 @@ div {
 }
 .scot:hover{
     border:3px solid #1b7ced;
+}
+.option {
+    border: 5px solid #404040
 }
