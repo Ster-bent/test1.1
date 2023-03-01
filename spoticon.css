@@ -40,3 +40,6 @@ div {
 .option {
     border: 5px solid #404040
 }
+.option:hover{
+    border: 8px solid #1b7ced;
+}
