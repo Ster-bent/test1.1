@@ -17,13 +17,20 @@ body{
 }
 #options{
     background-color: #101010;
-    border: 5px solid transparent;
+    border: 5px solid #202020;
 }
 p {
     color:white;
     font-family: fantasy;
 }
-#scot {
+.scot {
     width: 100px;
     height: 75px;
+    border: 3px solid #202020;
+}
+div {
+    background-color: transparent;
+}
+.scot:hover{
+    border:3px solid #303030;
 }
