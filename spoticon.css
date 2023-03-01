@@ -24,19 +24,16 @@ p {
     font-family: fantasy;
 }
 .scot {
-    border: 3px solid #202020;
-    padding: 5px;
-    float: left;
-    width: 33.33%;
+    border: 3px solid #101010;
+    width: 100px;
+    height: 75px;
 }
-.options::after {
-    display: table;
-    content: "";
-    clear: both; 
+.options{
+    background-color: #202020;
 }
 div {
     background-color: transparent;
 }
 .scot:hover{
-    border:3px solid #303030;
+    border:3px solid #1b7ced;
 }
