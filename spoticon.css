@@ -30,6 +30,7 @@ p {
 }
 .options{
     background-color: #202020;
+    margin-top: 50px;
 }
 div {
     background-color: transparent;
@@ -38,7 +39,8 @@ div {
     border:3px solid #1b7ced;
 }
 .option {
-    border: 5px solid #404040
+    border: 5px solid #404040;
+    margin-top: 50px;
 }
 .option:hover{
     border: 8px solid #1b7ced;
