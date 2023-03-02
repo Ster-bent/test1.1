@@ -38,6 +38,7 @@ div {
     border:3px solid #1b7ced;
 }
 .option {
+    background-color:#202020;
     border: 5px solid #404040;
     margin-top: 50px;
 }
