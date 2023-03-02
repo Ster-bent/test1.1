@@ -27,6 +27,8 @@ p {
     border: 3px solid #303030;
     width: 100px;
     height: 75px;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 .options{
     margin-top: 50px;
