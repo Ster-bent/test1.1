@@ -1,1 +1,3 @@
-
+fun printman(){
+    printIn("goofball")
+}
